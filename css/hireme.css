@@ -1,0 +1,102 @@
+/*
+Author: Sean O'Brien
+Class: Art 116
+date: 11-05-03
+*/
+
+nav {
+    width: 120%;
+    height: 40px;
+    padding: 2em;
+    background-color:#BF8F65;
+    
+ }
+
+ nav ul li{
+    color:black;
+    font-size: 130%;
+    font-family: 'Futura PT', sans-serif;
+    list-style: none;
+    float: left;
+    padding: .25em;
+ }
+
+ nav ul li a{
+    font-family: 'Futura PT', sans-serif;	
+ }
+
+ 
+ nav ul li img{
+    margin: 2%;
+    position: relative;
+    border-bottom: 100px;
+ }	
+ 
+
+ nav ul li a:hover{
+    color:#A8B2B2;
+ }
+
+ header {
+    font-style: italic;
+    font-family: 'Futura PT', sans-serif;	
+ }
+
+ main ul li{
+    color:black;
+    font-family: 'Futura PT', sans-serif;
+    list-style: none;
+ }
+
+body {
+    font-family: 'Futura PT', sans-serif;	
+    color: black; 
+    font-size: 14px; 
+    background-color:#A8B2B2;
+}
+
+footer {
+    font-family: 'Futura PT', sans-serif;	
+    background-color:#A8B2B2; 
+    padding: 2em;
+}
+
+
+footer ul li{
+    color:black;
+    font-size: 130%;
+    font-family: 'Futura PT', sans-serif;
+    list-style: none;
+    float: left;
+    padding: .25em;
+ }
+
+ footer ul li a{
+    font-family: 'Futura PT', sans-serif;	
+ }
+
+ footer ul li a:hover{
+    color:#A8B2B2;
+ }
+
+
+a:link {
+    text-decoration: none; 
+    color: black; 
+    font-family: 'Futura PT', sans-serif; 
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+
+h1 {
+    font-weight: bold;
+}
+
+h3 {
+    font-style: italic;
+}
+
