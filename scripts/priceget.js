@@ -1,7 +1,7 @@
 var doge = document.getElementById("dogecoin");
 var liveprice = {
     "async": true,
-    "scroosDomain": true,
+    "croosDomain": true,
     "url": "https://api.coingecko.com/api/v3/simple/price?ids=dogecoin&vs_currencies=usd",
 
     "method": "GET",
